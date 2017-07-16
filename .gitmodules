@@ -1,0 +1,3 @@
+[submodule "dtlabel/themes/hugo-sustain"]
+	path = dtlabel/themes/hugo-sustain
+	url = https://github.com/nurlansu/hugo-sustain.git
